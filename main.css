@@ -1,0 +1,39 @@
+body{
+      background: linear-gradient(#004e92,#000428);
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: fixed;
+      color: white;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+li{
+    float: left;
+    
+}
+
+li a{
+    display: block;
+    padding: 14px 16px;
+    text-align: center;
+    text-decoration: none;
+    background-color: #ffffff;
+}
+
+a:hover{
+    background-color: #004e92;
+}
+
+a:focus{
+    color: #0bbeff;
+}
+
