@@ -30,10 +30,14 @@ li a{
 }
 
 a:hover{
-    background-color: #004e92;
+    background-color: #ffffff;
 }
 
 a:focus{
     color: #0bbeff;
 }
 
+.box{
+    background-color: #ffffff;
+    color: #000428;
+}
