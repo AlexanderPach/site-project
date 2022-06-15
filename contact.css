@@ -44,10 +44,6 @@ li a{
   
 }
 
-.navbars li #mains a{
-    background-color: pink;
-}
-
 a:hover{
   background-color: #ffffff;
   color: #0bbeff;
