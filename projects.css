@@ -73,3 +73,25 @@ background-color: #ffffff;
 color: #000428;
 }
 
+.blocks{
+  position: absolute;
+  background-color: white;
+  color: black;
+  top: 30%;
+  left: 35%;
+
+}
+
+.blocks #block1{
+  border: solid;
+  height: 300px;
+  width: 500px;
+}
+
+.blocks #block2{
+  border: solid;
+  height: 300px;
+  width: 500px;
+}
+
+
